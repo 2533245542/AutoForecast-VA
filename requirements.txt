@@ -1,0 +1,10 @@
+torch>=1.6.0
+tensorflow>=2.3.1
+pandas>=1.2.0
+keras>=2.4.3
+scikit-learn>=0.23.2
+statsmodels>=0.12.1
+seaborn>=0.11.1
+parallel-execute>=0.1.0
+hpbandster
+pmdarima>=1.8.0

@@ -1,0 +1,8 @@
+autoForecastVA/tests/data/
+.idea/
+*.pyc
+./development/
+autoForecastVA/tests/components/hyper_parameter_tuning/data
+autoForecastVA/tests/benchmark/data
+*.dat
+autoForecastVA/tests/data/*
